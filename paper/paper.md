@@ -12,21 +12,9 @@ authors:
 - name: Fiona Dickinson
   orcid:
   affiliation: 1
-- name: Georgina Wellock
-  orcid:
-  affiliation: 1
 - name: Andrew R. McCluskey
   orcid: 0000-0003-3381-5911
   affiliation: "1, 2"
-- name: Alexander Squires
-  orcid:
-  affiliation: 1
-- name: Adam R. Symington
-  orcid: 0000-0001-6059-497X
-  affiliation: 1
-- name: Megan Stalker
-  orcid:
-  affiliation: 1
 affiliations:
 - name: Department of Chemistry, University of Bath
   index: 1
