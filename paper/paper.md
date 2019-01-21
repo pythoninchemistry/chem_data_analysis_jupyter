@@ -62,8 +62,7 @@ Furthermore, the skills that have been introduced my also be applied in the anal
 # Author Contributions
 
 B.J.M. developed the course with input from F.D.
-G.W., A.R.M., A.S., A.R.S., and M.S. assisted in course demonstration at the University of Bath.
-B.J.M. and A.R.M. wrote the paper.
+B.J.M., F.D., and A.R.M. wrote the paper.
 
 # Acknowledgements
 
