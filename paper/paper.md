@@ -61,7 +61,7 @@ Furthermore, the skills that have been introduced my also be applied in the anal
 
 # Author Contributions
 
-B.J.M. developed the course with input from F.D.
+B.J.M. developed the course with input from F.D and A.R.M..
 B.J.M., F.D., and A.R.M. wrote the paper.
 
 # Acknowledgements
