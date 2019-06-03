@@ -1,0 +1,11 @@
+# equlibrium constant data for 2 NO2 => N2O4  
+# columns are: temperature (degrees Celsius), K
+  
+9   34.3
+20  12
+25  8.79
+33  4.4
+40  2.8
+52  1.4
+60  0.751
+70  0.4
