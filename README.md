@@ -6,7 +6,7 @@ This is a short introduction to Jupyter notebooks and the Python programming lan
 This course was designed as a first introduction to programming for first year chemistry students at the [University of Bath](http://www.bath.ac.uk/departments/department-of-chemistry/).
 However, the skills introduced are relatively general for numerical data analysis and plotting.
 
-The course was developed by [Dr Benjamin Morgan](https://orcid.org/0000-0002-3056-8233) with input from [Dr Fiona Dickinson](https://researchportal.bath.ac.uk/en/persons/fiona-dickinson/), and [Andrew R. McCluskey](https://orcid.org/0000-0003-3381-5911).
+The course was developed by [Dr Benjamin Morgan](https://orcid.org/0000-0002-3056-8233) with input from [Dr Fiona Dickinson](https://researchportal.bath.ac.uk/en/persons/fiona-dickinson/), and [Dr Andrew McCluskey](https://orcid.org/0000-0003-3381-5911).
 
 ## pythoninchemistry
 
