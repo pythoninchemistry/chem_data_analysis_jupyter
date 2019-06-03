@@ -14,7 +14,7 @@ authors:
   affiliation: 1
 - name: Andrew R. McCluskey
   orcid: 0000-0003-3381-5911
-  affiliation: "1, 2"
+  affiliation: "2, 1"
 affiliations:
 - name: Department of Chemistry, University of Bath
   index: 1
